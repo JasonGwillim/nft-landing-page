@@ -10,9 +10,9 @@
   --font-code: 'Roboto', monospace;
   --bg-color: #00163f;
   --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
-  --header-shadow: #000 0px 0px 5px;
+  --btn-bg-color: #078fdd;
+  --accent-color: #01242c;
+  --header-shadow: rgb(2, 1, 70) 0px 0px 5px;
 }
 
 * {
